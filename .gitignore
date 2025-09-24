@@ -4,6 +4,6 @@ env
 .env
 .env.*
 Amazon Product Dataset.zip
-src\app\.env.local
+src/app/.env.local
 
 
