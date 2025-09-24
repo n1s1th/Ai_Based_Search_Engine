@@ -1,4 +1,6 @@
 node_modules
 env
-\src\app\.env.local
+# .gitignore
+.env
+.env.*
 Amazon Product Dataset.zip
